@@ -9,10 +9,7 @@
 <body>
 <input type="text" id="searchThisName">
 <input type="button" value="search" onclick="searchUser()">
-<script type="text/javascript">
-function searchUser(){
-
-}
+<?php echo '<p>Hello World</p>'; ?> 
 </script>
 </body>
 </html>
